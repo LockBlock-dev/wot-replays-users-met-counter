@@ -1,6 +1,6 @@
 # WoT Players meeting counter
 
-Made with ![python](https://img.shields.io/badge/python-3.9-blue?link=https://www.python.org/downloads/)
+![python](https://img.shields.io/badge/python-3.9-blue?link=https://www.python.org/downloads/)
 
 [![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/wot-replays-users-met-counter.svg)](https://github.com/LockBlock-dev/wot-replays-users-met-counter/stargazers)
 
